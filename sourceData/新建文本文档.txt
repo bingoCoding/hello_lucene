@@ -1,0 +1,11 @@
+1、熟练掌握Java初、中级知识，例如：反射、泛型及代理等技术。具备良好的面向对象编程思想，并且熟悉多线程，java NIO等。
+2、熟练掌握Java Web技术，包括JSP、Servlet、Filter、Listener、Cookie、Session、EL表达式、JSTL等技术。
+3、熟练掌握JDBC编程。
+4、熟练掌握Javascript、jQuery、jqgrid及AJAX等技术，能够熟练使用zTree、echarts等插件，了解angularjs、nodejs。
+5、熟练掌握spring、struts2、hibernate框架及其高级特性,能熟练使用springmvc,mybaits,jpa,spring data。
+6、了解并能使用shiro、springSecurity安全框架。
+7、熟练Oracle、MySQL数据库及redis缓存，了解MySQL数据库的优化。
+8、了解Web Service，rest service技术。
+9、熟练使用SVN、Maven等项目开发及管理工具，了解git。
+10、了解并能运用Linux常用命令。
+11、熟练使用eclipse,idea,viso,axure等工具。
